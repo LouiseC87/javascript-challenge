@@ -1,4 +1,4 @@
-
+var tableData = data;
 function altTable() {
   var tbody = document.getElementById('tbody');
   var datetime = document.getElementById('datetime').value;
